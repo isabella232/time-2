@@ -13,5 +13,5 @@ Utilities for working with time-related functions in Rust.
 """
 
 [build-dependencies.gcc]
-git = "https://github.com/alexcrichton/gcc-rs"
-#version = "0.1.0"
+git = "https://github.com/servo/gcc-rs"
+branch = "servo"
